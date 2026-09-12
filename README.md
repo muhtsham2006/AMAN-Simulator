@@ -1,3 +1,5 @@
+![AMAN Simulator screenshot](docs/screenshot.png)
+
 # ATC Terminal Arrival Manager (AMAN) Simulator
 
 A desktop Java simulation of a **Terminal Arrival Manager (AMAN)** — the system air traffic
